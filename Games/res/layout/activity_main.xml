@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_piano"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="黑白键盘" />
+
+        <Button
+            android:id="@+id/btn_popstar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PopStar" />
+
+        <Button
+            android:id="@+id/btn_2048"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2048" />
+
+        <Button
+            android:id="@+id/btn_bird"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="flappy bird" />
+
+        <Button
+            android:id="@+id/btn_chess"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="象棋" />
+
+        <Button
+            android:id="@+id/btn_fish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="大鱼吃小鱼" />
+
+        <Button
+            android:id="@+id/btn_five"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="五子棋()" />
+
+        <Button
+            android:id="@+id/btn_block"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="俄罗斯方块" />
+
+        <Button
+            android:id="@+id/btn_lian"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="连连看" />
+
+        <Button
+            android:id="@+id/btn_puzzle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="拼图" />
+
+        <Button
+            android:id="@+id/btn_peng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="对对碰" />
+
+        <Button
+            android:id="@+id/btn_tui"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="推箱子" />
+
+        <Button
+            android:id="@+id/btn_tank"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="坦克" />
+
+        <Button
+            android:id="@+id/btn_snake"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="贪吃蛇" />
+
+        <Button
+            android:id="@+id/btn_mouse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="打地鼠" />
+
+        <Button
+            android:id="@+id/btn_tower"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="塔防" />
+    </LinearLayout>
+
+</ScrollView>
